@@ -19,7 +19,10 @@ program for your operating system.
 It's very easy, just open noteshell.lpr via Lazarus  
 File/Open and hit on (via Menu Run/Run) or  
 directly green triangle icon.  
-After that you can use only your executable.  
+After that you can use only your executable.
+Since Lazarus is available for all platforms  
+Linux, OSX and Windows, noteshell is available   
+for all of them.  
   
 # shortcuts:  
 Ctrl+S   Save  
@@ -30,7 +33,11 @@ Ctrl+E Expand all nodes
   
 For search in all files on linux  
 grep -rin "some text" /pathtofolder/*.txt  
-  
+
+Hint: When entering part of node name in  
+speedy ComboBox (5.th element on top) if it is  
+autocompleted just hit on tab key.
+
 You can rearrange nodes with drag-drop.  
 For node names use only latin letters, numbers and _  
 Of course you can use utf8 inside your notes.  
