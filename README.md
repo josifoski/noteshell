@@ -21,7 +21,7 @@ program for your operating system.
 It's very easy, just open noteshell.lpr via Lazarus  
 File/Open and hit on (via Menu Run/Run) or  
 directly green triangle icon.  
-After that you can use only your executable.
+After that you can use only your executable.  
 Since Lazarus is available for all platforms   
 Linux, OSX and Windows, noteshell is available   
 for all of them.  
