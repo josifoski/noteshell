@@ -1,4 +1,4 @@
-# noteshell
+# Noteshell
 Tree like note keeper application
 
 Simple ideas are the Best ideas!
