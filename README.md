@@ -10,6 +10,8 @@ http://sourceforge.net/projects/noteshell
 2013-March; 2017-January;
   
 licence: GPL
+ 
+Photo: http://imgur.com/Wfb1nz9   
   
 # Instalation
 You will need Lazarus  
