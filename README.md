@@ -43,7 +43,7 @@ For node names use only latin letters, numbers and _
 Of course you can use utf8 inside your notes.  
   
 You can change directory path to notes files in   
-second line of noteshell_settings file  
+second line of noteshell_settings.txt file  
   
 example for Linux and OSX  
 /home/username/abcd/  
