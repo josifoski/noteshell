@@ -369,15 +369,15 @@ begin
 
   if Moze then begin
                       ssmeni := SynEdit1.Text;
-                      if TargetPlatform='l' then begin
+                      {if TargetPlatform='l' then begin
                       for i:=length(ssmeni) downto 1 do
                         if (ssmeni[i]=#10) and (ssmeni[i-1] <> #13) then insert(#13, ssmeni, i);
                       end;
                       if TargetPlatform='m' then begin
                       for i:=length(ssmeni) downto 1 do
                         if (ssmeni[i]=#13) and (ssmeni[i+1] <> #10) then insert(#10, ssmeni, i+1);
-                      end;
-                      AssignFile(wf, FPath+s+'.txt');
+                      end; }
+                      AssignFile(wf, FPath + s + '.txt');
                       rewrite(wf);
                       writeln(wf, ssmeni);
                       CloseFile(wf);
