@@ -121,7 +121,7 @@ begin
 
   // ShowMessage(TargetPlatform);
   SynEdit1.RightGutter.Visible:= False;
-  SynEdit1.RightEdge:= 10000;
+  // SynEdit1.RightEdge:= 10000;
   ShowLineNumbers:= False;
   SynEdit1.Gutter.Visible:=False;
   TreeView1.HideSelection:=False;

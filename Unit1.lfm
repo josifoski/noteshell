@@ -500,6 +500,7 @@ object Form1: TForm1
       Lines.Strings = (
         ''
       )
+      Options = [eoAutoIndent, eoBracketHighlight, eoGroupUndo, eoHideRightMargin, eoScrollPastEol, eoSmartTabs, eoTabsToSpaces, eoTrimTrailingSpaces]
       VisibleSpecialChars = [vscSpace, vscTabAtLast]
       SelectedColor.BackPriority = 50
       SelectedColor.ForePriority = 50
