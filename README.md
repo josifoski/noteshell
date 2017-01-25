@@ -1,5 +1,7 @@
 # noteshell  
-Tree like note keeper application  
+Tree like note keeper application
+  
+image: http://imgur.com/Wfb1nz9  
   
 Simple ideas are the Best ideas!  
   
