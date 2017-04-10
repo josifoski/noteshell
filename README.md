@@ -21,8 +21,8 @@ http://www.lazarus-ide.org/
 to (once only) compile  
 program for your operating system.  
 It's very easy, just open noteshell.lpr via Lazarus  
-File/Open and hit on (via Menu Run/Run) or  
-directly green triangle icon.  
+File/Open and hit on green triangle icon. (or via Menu Run/Run)  
+  
 After that you can use only your executable.  
   
 # shortcuts:  
